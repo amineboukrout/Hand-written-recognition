@@ -1,0 +1,5 @@
+./eminst-letters-test.csv
+./eminst-letters-train.csv
+./mnist_train.csv
+./mnist_test.csv
+./Twitter_WorldCup_2014_resolved.txt
